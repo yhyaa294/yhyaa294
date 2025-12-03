@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yahya+%F0%9F%91%8B;Grade+11+Student+%40+SMAN+Ngoro;Top+20+AI+Talent+Hub+Indonesia;Building+SmartAPD+%26+MINDORA;Fullstack+Dev+%2B+AI+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yhyaa294&label=Profile%20Views&color=blue&style=flat" alt="yhyaa294" />
+</div>
 # Hi there, I'm Yahya! 👋
 
 <table>
@@ -307,6 +314,21 @@ My journey is supported by amazing organizations and partners:
 ![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhyaa294&show_icons=true&theme=tokyonight)
 
 ---
+<br>
+<h3 align="center">🏆 GitHub Trophy Collection</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yhyaa294&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+### 📊 GitHub Activity & Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yhyaa294&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhyaa294&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhyaa294&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
+
 
 ### 📬 Let's Connect!
 I am open to collaboration, investment opportunities, or discussing AI tech.
