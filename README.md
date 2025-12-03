@@ -18,10 +18,13 @@
 
 
 
+```java
+// "Random Thoughts"
 > "Code is poetry, but Money is the compiler."
 > "Dream big, compile smooth, deploy fast."
 > "I don't sleep, I garbage collect my thoughts."
 
+// 🚀 LIFE_TARGETS_V1.0 (The Financial Glitch)
 if (age <= 17) {
     target = "IDR 100.000.000 (100 Juta)"; // LOADING... ⏳
     status = "Grinding...";
@@ -32,7 +35,6 @@ if (age <= 17) {
     target = "IDR 1.000.000.000.000 (1 Triliun)"; // GOD MODE 🔒
     status = "Wait for it.";
 }
-
 ---
 
 ### 👨‍💻 About Me
