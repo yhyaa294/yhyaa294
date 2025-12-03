@@ -63,21 +63,19 @@ My journey is supported by these amazing organizations:
   <img src="byteplus.webp" height="35" alt="BytePlus" style="margin:10px;">
   <img src="ekraf.webp" height="40" alt="Kemenparekraf" style="margin:10px;">
 </div>
+---
 
-### 🚀 Startup Projects & Innovations
-Here are the products I'm currently building:
 
-### 🚀 Featured Innovations
-Here are the products I am building to solve real-world problems:
+### 🚀 Impactful Products & Startups
+*Building technology that matters for Society & Economy.*
 
 | Startup / Project | Description | Core Tech |
 | :---: | --- | :---: |
-| <img src="smartapd.jpg" width="70"> | **🛡️ SmartAPD (AI Safety)**<br>Real-time PPE detection system for factory safety using Computer Vision. | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=opencv&logoColor=black) |
-| <img src="mindora.jpg" width="70"> | **🧠 MINDORA**<br>Gen Z mental health ecosystem. Collaboration with **GenRe & BKKBN**. | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) |
-| <img src="pasalku.jpg" width="70"> | **⚖️ Pasalku.ai**<br>Your personal AI legal assistant to understand Indonesian Law easily. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| <img src="ummigo.jpg" width="70"> | **🚀 UMMIGO.id**<br>Digital transformation platform for local MSMEs (UMKM) in Jombang. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
-| <img src="thriby.jpg" width="70"> | **🐟 Thriby / iikan**<br>Connecting fish farmers to premium buyers & mood tracking AI. | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
-
+| <img src="smartapd.jpg" width="70" style="border-radius:10px;"> | **🛡️ SmartAPD (AI Safety)**<br>Real-time PPE detection system for factory safety using Computer Vision.<br><i>Winner / Top Project</i> | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=opencv&logoColor=black) |
+| <img src="mindora.jpg" width="70" style="border-radius:10px;"> | **🧠 MINDORA**<br>Gen Z mental health ecosystem. Backed by **GenRe & BKKBN**.<br><i>Social Impact</i> | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) |
+| <img src="pasalku.jpg" width="70" style="border-radius:10px;"> | **⚖️ Pasalku.ai**<br>RAG-based AI Legal Assistant to democratize law literacy in Indonesia.<br><i>LawTech / NLP</i> | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| <img src="ummigo.jpg" width="70" style="border-radius:10px;"> | **🚀 UMMIGO.id**<br>Hyperlocal commerce aggregrator for MSMEs in Jombang.<br><i>Economy / B2B</i> | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
+| <img src="thriby.jpg" width="70" style="border-radius:10px;"> | **🐟 iikan (Thriby)**<br>Smart frozen fish packaging with IoT traceablity & AI Chef.<br><i>FoodTech / IoT</i> | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
 
 ### 🤝 Ecosystem & Support
 My journey is supported by amazing organizations and partners:
@@ -334,6 +332,18 @@ My journey is supported by amazing organizations and partners:
 
 </details>
 
+### 🧠 The Polymath Mindset
+*"Code builds the tool, Philosophy guides the hand, Law sets the rules."*
+
+I don't just write code; I study the systems that govern the world.
+<p align="left">
+  <img src="https://img.shields.io/badge/Interests-Philosophy_%26_Logic-black?style=flat-square&logo=plato">
+  <img src="https://img.shields.io/badge/Interests-Corporate_Law-red?style=flat-square&logo=scalesofjustice">
+  <img src="https://img.shields.io/badge/Interests-Behavioral_Economics-green?style=flat-square&logo=money">
+  <img src="https://img.shields.io/badge/Interests-Javanese_Culture-brown?style=flat-square&logo=culture">
+</p>
+
+
 ### 📊 Github Stats
 ![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhyaa294&show_icons=true&theme=tokyonight)
 
@@ -354,6 +364,8 @@ My journey is supported by amazing organizations and partners:
 </div>
 
 
+
+
 ### 📬 Let's Connect!
 I am open to collaboration, investment opportunities, or discussing AI tech.
 
@@ -367,6 +379,23 @@ I am open to collaboration, investment opportunities, or discussing AI tech.
   </a>
   <a href="https://wa.me/6282330919114" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <div align="center">
+  <img src="https://github.com/yhyaa294/yhyaa294/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
+</div>
+<br>
   </a>
 
+</div>
+
+
+---
+<div align="center">
+  <p>
+    Use my code? Give credit. Want to collaborate? Drop a message.<br>
+    <b>© 2025 Muhammad Syarifuddin Yahya. Built with Ambition & ☕.</b>
+  </p>
+  <p>
+    <a href="https://github.com/yhyaa294?tab=repositories">See All Repositories</a> •
+    <a href="mailto:emailmu@gmail.com">Email Me</a>
+  </p>
 </div>
