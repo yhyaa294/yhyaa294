@@ -261,6 +261,48 @@ My journey is supported by amazing organizations and partners:
 
 </details>
 
+### 🤖 My AI Power Tools & Intelligent Assistants
+*"I don't just code alone; I have an army of AI."*
+
+<details>
+  <summary><b>CLICK TO REVEAL MY AI STACK</b> 🔽</summary>
+  <br>
+
+  <b>💻 AI Coding Assistants & Environments</b><br>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-Pair_Programmer-181717?style=for-the-badge&logo=githubcopilot&logoColor=white">
+  <img src="https://img.shields.io/badge/Replit_AI-Cloud_IDE-F26207?style=for-the-badge&logo=replit&logoColor=white">
+  <img src="https://img.shields.io/badge/Cursor-AI_Editor-000000?style=for-the-badge&logo=cursor&logoColor=white">
+  <img src="https://img.shields.io/badge/Bolt.new-Fullstack_GenAI-000000?style=for-the-badge&logo=lightning&logoColor=yellow">
+  <img src="https://img.shields.io/badge/Lovable-NoCode_AI-FF5A5F?style=for-the-badge&logo=heart&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI_Codex-Code_Gen-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Tabnine-Autocomplete-0066FF?style=for-the-badge&logo=tabnine&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_CodeWhisperer-AWS_AI-232F3E?style=for-the-badge&logo=amazon&logoColor=white">
+  <img src="https://img.shields.io/badge/Blackbox_AI-Code_Search-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Android_Studio_Bot-Droid_AI-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Codeium-Free_AI-09B6A2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/v0.dev-UI_Generation-000000?style=for-the-badge&logo=vercel&logoColor=white">
+
+  <br><b>🧠 LLMs & Reasoning Models</b><br>
+  <img src="https://img.shields.io/badge/Google_Gemini_1.5-Pro_%26_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude_3.5_Sonnet-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Llama_3-Meta_AI-0467DF?style=for-the-badge&logo=meta&logoColor=white">
+  <img src="https://img.shields.io/badge/Mistral_AI-Open_Source-FD6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DeepSeek-Coder-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Perplexity_AI-Search-117889?style=for-the-badge&logo=perplexity&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingChat-Open_Assistant-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/Poe-AI_Aggregator-B02A33?style=for-the-badge">
+
+  <br><b>🎨 Creative & Research AI</b><br>
+  <img src="https://img.shields.io/badge/Midjourney-Image_Gen-white?style=for-the-badge&logo=midjourney&logoColor=black">
+  <img src="https://img.shields.io/badge/Leonardo.ai-Art_Gen-7E4DD2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RunwayML-Video_AI-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Gamma-Presentation_AI-F4B400?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Consensus-Research_AI-004080?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Elicit-Research_Assistant-E75480?style=for-the-badge">
+
+</details>
+
 ### 📊 Github Stats
 ![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhyaa294&show_icons=true&theme=tokyonight)
 
