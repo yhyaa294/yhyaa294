@@ -1,15 +1,39 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Yahya;Top+20+AI+Talent+Hub+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+SmartAPD,+MINDORA,+%26+Pasalku.ai;Grade+11+Student+%40+SMAN+Ngoro;Fullstack+Dev+%7C+AI+Engineer+%7C+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Yahya+%F0%9F%91%8B;Top+20+AI+Talent+Hub+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+SmartAPD,+MINDORA,+%26+Pasalku.ai;Grade+11+Student+%40+SMAN+Ngoro;Fullstack+Dev+%7C+AI+Engineer+%7C+Future+Unicorn+Founder" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yahya+%F0%9F%91%8B;Top+20+AI+Talent+Hub+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+SmartAPD,+MINDORA,+%26+Pasalku.ai;Grade+11+Student+%40+SMAN+Ngoro;Fullstack+Dev+%2B+AI+Enthusiast" alt="Typing SVG" />
-  
-  <br>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/yhyaa294"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muhammadsyarifuddinyahya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/syarfddn_yhya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/6282330919114" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </div>
+
+---
+
+### 🎯 System.Manifesto("The Billionaire Roadmap")
+```java
+// "Kata-kata ga jelas" / Random Thoughts
+> "Code is poetry, but Money is the compiler."
+> "Dream big, compile smooth, deploy fast."
+> "I don't sleep, I garbage collect my thoughts."
+
+// 🚀 LIFE_TARGETS_V1.0 (The Financial Glitch)
+if (age <= 17) {
+    target = "IDR 100.000.000 (100 Juta)"; // LOADING... ⏳
+    status = "Grinding...";
+} else if (age <= 20) {
+    target = "IDR 1.000.000.000 (1 Milyar)"; // LOCKED 🔒
+    status = "Pending Expansion...";
+} else if (age <= 30) {
+    target = "IDR 1.000.000.000.000 (1 Triliun)"; // GOD MODE 🔒
+    status = "Wait for it.";
+}
 
 ---
 
