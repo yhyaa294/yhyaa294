@@ -1,30 +1,31 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yahya+%F0%9F%91%8B;Grade+11+Student+%40+SMAN+Ngoro;Top+20+AI+Talent+Hub+Indonesia;Building+SmartAPD+%26+MINDORA;Fullstack+Dev+%2B+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yahya+%F0%9F%91%8B;Top+20+AI+Talent+Hub+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+SmartAPD,+MINDORA,+%26+Pasalku.ai;Grade+11+Student+%40+SMAN+Ngoro;Fullstack+Dev+%2B+AI+Enthusiast" alt="Typing SVG" />
+  
+  <br>
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/yhyaa294"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yhyaa294&label=Profile%20Views&color=blue&style=flat" alt="yhyaa294" />
-</div>
-# Hi there, I'm Yahya! 👋
+---
 
+### 👨‍💻 About Me
 <table>
   <tr>
-    <td width="25%" align="center">
-      <img src="smanero.jpg" width="100" alt="SMAN Ngoro"><br>
-      <b>Grade 11 Student</b><br>SMAN Ngoro Jombang
+    <td width="20%" align="center">
+       <img src="smanero.jpg" width="100" style="border-radius:50%;"><br>
+       <b>SMAN Ngoro</b><br>Jombang
     </td>
     <td>
-      <h3>👨‍💻 About Me</h3>
-      I am a High School Student passionate about <b>Artificial Intelligence, Fullstack Development, and Entrepreneurship</b>. 
+      I am a Grade 11 student passionate about <b>Artificial Intelligence</b> and <b>Problem Solving</b>.
       <br><br>
-      Despite being in Grade 11, I actively build startups and compete in national tech competitions. I aim to solve social problems in Indonesia using code.
+      🏆 <b>Top 20 Finalist - AI Talent Hub Indonesia 2025</b><br>
+      Selected as the only student participant among professionals in this prestigious program by <b>Universitas Indonesia</b> & <b>Pertamina</b>.
       <br><br>
-      🚀 <b>Current Focus:</b> Scaling <i>SmartAPD</i> & <i>MINDORA</i><br>
-      📍 <b>Location:</b> Jombang, East Java, Indonesia
+      🔭 Currently working on: <b>SmartAPD</b> (AI Safety) & <b>MINDORA</b> (Mental Health).
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🏆 Featured Achievement
