@@ -17,9 +17,7 @@
 ---
 
 
-### 🎯 System.Manifesto("The Billionaire Roadmap")
-```
-java
+
 // "Random Thoughts"
 > "Code is poetry, but Money is the compiler."
 > "Dream big, compile smooth, deploy fast."
