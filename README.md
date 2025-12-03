@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Yahya;Top+20+AI+Talent+Hub+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+SmartAPD,+MINDORA,+%26+Pasalku.ai;Grade+11+Student+%40+SMAN+Ngoro;Fullstack+Dev+%7C+AI+Engineer+%7C+Founder" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yahya+%F0%9F%91%8B;Top+20+AI+Talent+Hub+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+SmartAPD,+MINDORA,+%26+Pasalku.ai;Grade+11+Student+%40+SMAN+Ngoro;Fullstack+Dev+%2B+AI+Enthusiast" alt="Typing SVG" />
   
   <br>
@@ -42,19 +46,33 @@
 </table>
 
 ---
+### 🤝 Backed By Ecosystem
+My journey is supported by these amazing organizations:
+
+<div align="center">
+  <img src="ui.webp" height="65" alt="Universitas Indonesia" style="margin:10px;">
+  <img src="pertamina.jpg" height="65" alt="Pertamina" style="margin:10px;">
+  <img src="aitalent.webp" height="65" alt="AI Talent Hub" style="margin:10px;">
+  <br>
+  <img src="uiincubate.png" height="35" alt="UI Incubate" style="margin:10px;">
+  <img src="byteplus.webp" height="35" alt="BytePlus" style="margin:10px;">
+  <img src="ekraf.webp" height="40" alt="Kemenparekraf" style="margin:10px;">
+</div>
 
 ### 🚀 Startup Projects & Innovations
 Here are the products I'm currently building:
 
-| Brand | Project Description | Tech Stack |
-| :---: | --- | :---: |
-| <img src="pasalku.jpg" width="80"> | **⚖️ Pasalku.ai**<br>AI-powered legal assistant making Indonesian law accessible to everyone. Helps users understand regulations easily. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| <img src="smartapd.jpg" width="80"> | **🛡️ SmartAPD**<br>IoT & AI System for K3 (Safety). Detects PPE compliance in real-time using Computer Vision to prevent workplace accidents. | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=opencv&logoColor=black) |
-| <img src="ummigo.jpg" width="80"> | **🚀 UMMIGO.id**<br>"UMKM Go Digital". A platform empowering local MSMEs in Jombang to scale up their business online. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
-| <img src="mindora.jpg" width="80"> | **🧠 MINDORA / SEHATI+**<br>Mental health ecosystem for Gen Z. Collaborating with **GenRe** & **BKKBN** to provide counseling access. | ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white) |
-| <img src="thriby.jpg" width="80"> | **🐟 iikan by Thriby**<br>A modern marketplace connecting local fish farmers directly to premium buyers. | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
+### 🚀 Featured Innovations
+Here are the products I am building to solve real-world problems:
 
----
+| Startup / Project | Description | Core Tech |
+| :---: | --- | :---: |
+| <img src="smartapd.jpg" width="70"> | **🛡️ SmartAPD (AI Safety)**<br>Real-time PPE detection system for factory safety using Computer Vision. | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=opencv&logoColor=black) |
+| <img src="mindora.jpg" width="70"> | **🧠 MINDORA**<br>Gen Z mental health ecosystem. Collaboration with **GenRe & BKKBN**. | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) |
+| <img src="pasalku.jpg" width="70"> | **⚖️ Pasalku.ai**<br>Your personal AI legal assistant to understand Indonesian Law easily. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| <img src="ummigo.jpg" width="70"> | **🚀 UMMIGO.id**<br>Digital transformation platform for local MSMEs (UMKM) in Jombang. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
+| <img src="thriby.jpg" width="70"> | **🐟 Thriby / iikan**<br>Connecting fish farmers to premium buyers & mood tracking AI. | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
+
 
 ### 🤝 Ecosystem & Support
 My journey is supported by amazing organizations and partners:
