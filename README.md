@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td width="20%" align="center">
-       <img src="smanero.jpg" width="100" style="border-radius:50%;"><br>
+       <img src="logo nero.jpg" width="100" style="border-radius:50%;"><br>
        <b>SMAN Ngoro</b><br>Jombang
     </td>
     <td>
