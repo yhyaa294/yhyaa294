@@ -45,7 +45,7 @@
       🏆 <b>Top 20 Finalist - AI Talent Hub Indonesia 2025</b><br>
       Selected as the only student participant among professionals in this prestigious program by <b>Universitas Indonesia</b> & <b>Pertamina</b>.
       <br><br>
-      🔭 Currently working on: <b>SmartAPD</b> (AI Safety) & <b>MINDORA</b> (Mental Health).
+      🔭 Currently working on: <b> GenZ AI</b>
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@ My journey is supported by these amazing organizations:
 | <img src="./logo%20pasalkuy.jpg" width="70" style="border-radius:10px;"> | **⚖️ Pasalku.ai**<br>RAG-powered legal assistant making Indonesian law accessible and easy to understand for everyone.<br><i>LawTech / NLP</i> | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | <img src="./logo%20ummigo.png" width="70" style="border-radius:10px;"> | **🚀 UMMIGO.id**<br>Digital aggregator empowering local MSMEs (UMKM) with hyperlocal commerce and funding access.<br><i>Economy / B2B</i> | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
 | <img src="./logo%20triby.png" width="70" style="border-radius:10px;"> | **🐟 iikan (Thriby)**<br>IoT-enabled smart packaging solution ensuring fish freshness traceability from sea to table.<br><i>FoodTech / IoT</i> | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
-| <img src="./logo%20logo.jpg" width="70" style="border-radius:10px;"> | **📜 Sancaka (Heritage AI)**<br>Revitalizing Javanese Script through an AI-powered app with Handwriting Recognition technology.<br><i>EdTech / Culture</i> | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) |
+| <img src="./logo%20logo.png" width="70" style="border-radius:10px;"> | **📜 Sancaka (Heritage AI)**<br>Revitalizing Javanese Script through an AI-powered app with Handwriting Recognition technology.<br><i>EdTech / Culture</i> | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) |
 
 ### 🤝 Ecosystem & Support
 My journey is supported by amazing organizations and partners:
