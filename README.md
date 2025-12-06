@@ -1,93 +1,179 @@
 <div align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Yahya+%F0%9F%91%8B;Top+20+AI+Talent+Hub+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+SmartAPD,+MINDORA,+%26+Pasalku.ai;Grade+11+Student+%40+SMAN+Ngoro;Fullstack+Dev+%7C+AI+Engineer+%7C+Future+Unicorn+Founder" alt="Typing SVG" />
+
 </div>
 
+
+
 <div align="center">
+
   <a href="https://linkedin.com/in/muhammadsyarifuddinyahya" target="_blank">
+
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
   </a>
+
   <a href="https://instagram.com/syarfddn_yhya" target="_blank">
+
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
   </a>
+
   <a href="https://wa.me/6282330919114" target="_blank">
+
     <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
   </a>
+
 </div>
+
+
 
 ---
 
 
 
 ### 👨‍💻 About Me
+
 <table>
+
   <tr>
+
     <td width="20%" align="center">
-       <img src="logo nero.jpg" width="100" style="border-radius:50%;"><br>
+
+       <img src="./logo%20nero.jpg" width="100" style="border-radius:50%;"><br>
+
        <b>SMAN Ngoro</b><br>Jombang
+
     </td>
+
     <td>
+
       I am a Grade 11 student passionate about <b>Artificial Intelligence</b> and <b>Problem Solving</b>.
+
       <br><br>
+
       🏆 <b>Top 20 Finalist - AI Talent Hub Indonesia 2025</b><br>
+
       Selected as the only student participant among professionals in this prestigious program by <b>Universitas Indonesia</b> & <b>Pertamina</b>.
+
       <br><br>
+
       🔭 Currently working on: <b>SmartAPD</b> (AI Safety) & <b>MINDORA</b> (Mental Health).
+
     </td>
+
   </tr>
+
 </table>
+
 ---
+
+
 
 ### 🏆 Featured Achievement
+
 <table width="100%">
+
   <tr>
-    <td width="20%"><img src="aitalent.webp" width="100%"></td>
+
+    <td width="20%"><img src="./logo-ai-talent-hub.webp" width="100%"></td>
+
     <td>
+
       <b>Top 20 Finalist - AI Talent Hub Indonesia 2025</b><br>
+
       <i>Universitas Indonesia (UI) x PT Pertamina (Persero)</i><br><br>
+
       Selected as the only student finalist among professionals to present AI innovations.
+
     </td>
-    <td width="20%"><img src="pertamina.jpg" width="100%"></td>
+
+    <td width="20%"><img src="./logo-pertamina.jpg" width="100%"></td>
+
   </tr>
+
 </table>
 
+
+
 ---
+
 ### 🤝 Backed By Ecosystem
+
 My journey is supported by these amazing organizations:
 
+
+
 <div align="center">
-  <img src="ui.webp" height="65" alt="Universitas Indonesia" style="margin:10px;">
-  <img src="pertamina.jpg" height="65" alt="Pertamina" style="margin:10px;">
-  <img src="aitalent.webp" height="65" alt="AI Talent Hub" style="margin:10px;">
+
+  <img src="./logo%20ui.webp" height="65" alt="Universitas Indonesia" style="margin:10px;">
+
+  <img src="./logo-pertamina.jpg" height="65" alt="Pertamina" style="margin:10px;">
+
+  <img src="./logo-ai-talent-hub.webp" height="65" alt="AI Talent Hub" style="margin:10px;">
+
   <br>
-  <img src="uiincubate.png" height="35" alt="UI Incubate" style="margin:10px;">
-  <img src="byteplus.webp" height="35" alt="BytePlus" style="margin:10px;">
-  <img src="ekraf.webp" height="40" alt="Kemenparekraf" style="margin:10px;">
+
+  <img src="./dukungan%20ui.webp" height="35" alt="UI Incubate" style="margin:10px;">
+
+  <img src="./logo%20bytepluss.webp" height="35" alt="BytePlus" style="margin:10px;">
+
+  <img src="./logo%20ekraf.webp" height="40" alt="Kemenparekraf" style="margin:10px;">
+
 </div>
+
 ---
+
+
+
 
 
 ### 🚀 Impactful Products & Startups
+
 *Building technology that matters for Society & Economy.*
 
+
+
 | Startup / Project | Description | Core Tech |
+
 | :---: | --- | :---: |
-| <img src="smartapd.jpg" width="70" style="border-radius:10px;"> | **🛡️ SmartAPD (AI Safety)**<br>Real-time PPE detection system for factory safety using Computer Vision.<br><i>Winner / Top Project</i> | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=opencv&logoColor=black) |
+
+| <img src="./logo%20smartapd.jpg" width="70" style="border-radius:10px;"> | **🛡️ SmartAPD (AI Safety)**<br>Real-time PPE detection system for factory safety using Computer Vision.<br><i>Winner / Top Project</i> | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=opencv&logoColor=black) |
+
 | <img src="mindora.jpg" width="70" style="border-radius:10px;"> | **🧠 MINDORA**<br>Gen Z mental health ecosystem. Backed by **GenRe & BKKBN**.<br><i>Social Impact</i> | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) |
-| <img src="pasalku.jpg" width="70" style="border-radius:10px;"> | **⚖️ Pasalku.ai**<br>RAG-based AI Legal Assistant to democratize law literacy in Indonesia.<br><i>LawTech / NLP</i> | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| <img src="ummigo.jpg" width="70" style="border-radius:10px;"> | **🚀 UMMIGO.id**<br>Hyperlocal commerce aggregrator for MSMEs in Jombang.<br><i>Economy / B2B</i> | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
+
+| <img src="./logo%20pasalkuy.jpg" width="70" style="border-radius:10px;"> | **⚖️ Pasalku.ai**<br>RAG-based AI Legal Assistant to democratize law literacy in Indonesia.<br><i>LawTech / NLP</i> | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+
+| <img src="./logo%20ummigo.png" width="70" style="border-radius:10px;"> | **🚀 UMMIGO.id**<br>Hyperlocal commerce aggregrator for MSMEs in Jombang.<br><i>Economy / B2B</i> | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
+
 | <img src="thriby.jpg" width="70" style="border-radius:10px;"> | **🐟 iikan (Thriby)**<br>Smart frozen fish packaging with IoT traceablity & AI Chef.<br><i>FoodTech / IoT</i> | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
 
+
+
 ### 🤝 Ecosystem & Support
+
 My journey is supported by amazing organizations and partners:
 
+
+
 <div align="center">
-  <img src="ui.webp" height="60" alt="Universitas Indonesia" style="margin: 10px;">
-  <img src="uiincubate.png" height="60" alt="UI Incubate" style="margin: 10px;">
-  <img src="byteplus.webp" height="50" alt="BytePlus" style="margin: 10px;">
-  <img src="ekraf.webp" height="60" alt="Kemenparekraf" style="margin: 10px;">
+
+  <img src="./logo%20ui.webp" height="60" alt="Universitas Indonesia" style="margin: 10px;">
+
+  <img src="./dukungan%20ui.webp" height="60" alt="UI Incubate" style="margin: 10px;">
+
+  <img src="./logo%20bytepluss.webp" height="50" alt="BytePlus" style="margin: 10px;">
+
+  <img src="./logo%20ekraf.webp" height="60" alt="Kemenparekraf" style="margin: 10px;">
+
   <br><br>
+
   <b>Program Partners:</b><br>
-  <img src="sponsors.webp" width="100%" alt="Sponsors">
+
+  <img src="./ai%20talent%20suppoort.webp" width="100%" alt="Sponsors">
+
 </div>
 
 ---
