@@ -79,17 +79,17 @@ My journey is supported by these amazing organizations:
 </div>
 ---
 
-
 ### 🚀 Impactful Products & Startups
 *Building technology that matters for Society & Economy.*
 
 | Startup / Project | Description | Core Tech |
 | :---: | --- | :---: |
-| <img src="./logo%20smartapd.jpg" width="70" style="border-radius:10px;"> | **🛡️ SmartAPD (AI Safety)**<br>Real-time PPE detection system for factory safety using Computer Vision.<br><i>Winner / Top Project</i> | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=opencv&logoColor=black) |
-| <img src="mindora.jpg" width="70" style="border-radius:10px;"> | **🧠 MINDORA**<br>Gen Z mental health ecosystem. Backed by **GenRe & BKKBN**.<br><i>Social Impact</i> | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) |
-| <img src="./logo%20pasalkuy.jpg" width="70" style="border-radius:10px;"> | **⚖️ Pasalku.ai**<br>RAG-based AI Legal Assistant to democratize law literacy in Indonesia.<br><i>LawTech / NLP</i> | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| <img src="./logo%20ummigo.png" width="70" style="border-radius:10px;"> | **🚀 UMMIGO.id**<br>Hyperlocal commerce aggregrator for MSMEs in Jombang.<br><i>Economy / B2B</i> | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
-| <img src="thriby.jpg" width="70" style="border-radius:10px;"> | **🐟 iikan (Thriby)**<br>Smart frozen fish packaging with IoT traceablity & AI Chef.<br><i>FoodTech / IoT</i> | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
+| <img src="./logo%20smartapd.jpg" width="70" style="border-radius:10px;"> | **🛡️ SmartAPD (AI Safety)**<br>Automated factory safety system using Computer Vision to detect PPE violations in real-time.<br><i>Winner / Top Project</i> | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=opencv&logoColor=black) |
+| <img src="./logo%20mindora.png" width="70" style="border-radius:10px;"> | **🧠 MINDORA**<br>Gamified mental health ecosystem connecting Gen Z with professional counseling and peer support.<br><i>Social Impact</i> | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) |
+| <img src="./logo%20pasalkuy.jpg" width="70" style="border-radius:10px;"> | **⚖️ Pasalku.ai**<br>RAG-powered legal assistant making Indonesian law accessible and easy to understand for everyone.<br><i>LawTech / NLP</i> | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| <img src="./logo%20ummigo.png" width="70" style="border-radius:10px;"> | **🚀 UMMIGO.id**<br>Digital aggregator empowering local MSMEs (UMKM) with hyperlocal commerce and funding access.<br><i>Economy / B2B</i> | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) |
+| <img src="./logo%20triby.png" width="70" style="border-radius:10px;"> | **🐟 iikan (Thriby)**<br>IoT-enabled smart packaging solution ensuring fish freshness traceability from sea to table.<br><i>FoodTech / IoT</i> | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
+| <img src="./logo%20sancaka.jpg" width="70" style="border-radius:10px;"> | **📜 Sancaka (Heritage AI)**<br>Revitalizing Javanese Script through an AI-powered app with Handwriting Recognition technology.<br><i>EdTech / Culture</i> | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) |
 
 ### 🤝 Ecosystem & Support
 My journey is supported by amazing organizations and partners:
@@ -401,6 +401,43 @@ I am open to collaboration, investment opportunities, or discussing AI tech.
 
 </div>
 
+
+<div align="center">
+  <svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <linearGradient id="rainbow" x1="0" x2="1" y1="0" y2="0">
+     <stop stop-color="#ff0000" offset="0%"></stop>
+     <stop stop-color="#ff9900" offset="17%"></stop>
+     <stop stop-color="#d4ff00" offset="33%"></stop>
+     <stop stop-color="#00ff2a" offset="50%"></stop>
+     <stop stop-color="#00e6ff" offset="67%"></stop>
+     <stop stop-color="#0055ff" offset="83%"></stop>
+     <stop stop-color="#ff0000" offset="100%"></stop>
+     <animate attributeName="x1" values="0%;100%" dur="5s" repeatCount="indefinite"></animate>
+     <animate attributeName="x2" values="100%;200%" dur="5s" repeatCount="indefinite"></animate>
+    </linearGradient>
+   </defs>
+   <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle" font-family="Arial Black, sans-serif" font-weight="bold" font-size="30" fill="url(#rainbow)">
+    BUILDING THE FUTURE WITH AI 🚀
+   </text>
+  </svg>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=22&duration=2500&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=$+Initializing+God_Mode...;$+Loading+300%2B+Skills...;$+System+Ready.">
+  </a>
+</div>
+
+
+<div align="center">
+<svg width="100%" height="50" xmlns="http://www.w3.org/2000/svg">
+ <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-weight="bold" font-size="24" fill="#3382F7">
+  🚀 IMPACTFUL PRODUCTS & STARTUPS
+  <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 0 -5; 0 0" dur="3s" repeatCount="indefinite"/>
+ </text>
+</svg>
+</div>
 
 ---
 <div align="center">
