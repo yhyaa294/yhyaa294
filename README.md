@@ -1,4 +1,24 @@
 <div align="center">
+  <svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="shine" x1="-100%" y1="0%" x2="0%" y2="0%">
+        <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.3" />
+        <stop offset="50%" stop-color="#ffffff" stop-opacity="1" />
+        <stop offset="100%" stop-color="#D4AF37" stop-opacity="0.3" />
+         <animate attributeName="x1" from="-100%" to="100%" dur="3s" repeatCount="indefinite" />
+         <animate attributeName="x2" from="0%" to="200%" dur="3s" repeatCount="indefinite" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Georgia, serif" font-weight="bold" font-size="28" fill="#D4AF37">
+      🏆 FEATURED ACHIEVEMENT
+    </text>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Georgia, serif" font-weight="bold" font-size="28" fill="url(#shine)">
+      🏆 FEATURED ACHIEVEMENT
+    </text>
+  </svg>
+</div>
+
+<div align="center">
   <a href="https://linkedin.com/in/muhammadsyarifuddinyahya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
